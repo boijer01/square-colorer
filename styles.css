@@ -1,0 +1,7 @@
+.grid-container {
+    margin-top: 50px;
+}
+
+.grid {
+    display: flex;
+}
