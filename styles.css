@@ -5,3 +5,13 @@
 .grid {
     display: flex;
 }
+
+.cell {
+    width: 25px;
+    height: 25px;
+    background-color: blue;
+    flex: 1;
+    margin: 2px;
+    border-radius: 5px;
+    transition:  0.3s;
+}
